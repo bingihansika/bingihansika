@@ -32,5 +32,6 @@
 
 ---
 
-✨ _"Tech is not just a skill — it's an adventure."_  
+>✨ _"Tech is not just a skill — it's an adventure."_
+ 
 Let’s connect, collaborate, and code the future together! 🚀
