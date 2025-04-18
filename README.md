@@ -26,8 +26,8 @@
 
 📫 **Reach Me At**
 
-- 💌 Email: `bingihansika23@gmail.com`
-- 💼 LinkedIn: Linkedin([https://linkedin.com/in/yourname](https://www.linkedin.com/in/hansika-bingi-42615133b/))
+- 💌 Email: `bingihansika23@gmail.com`  
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/hansika-bingi-42615133b/)  
 - 💻 Portfolio (soon!): [yourwebsite.com](https://yourwebsite.com)
 
 ---
