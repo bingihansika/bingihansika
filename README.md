@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Hansika</h1>
+<h3 align="center">A Passionate BTech Student | Tech Explorer | IoT & OpenCV Enthusiast</h3>
 
-<!--
-**bingihansika/bingihansika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a 2nd-year BTech student diving deep into the world of **Technology**, **IoT**, and **Computer Vision**.
+- 🧠 Currently exploring **OpenCV**, **AI/ML**, and building smart systems that interact with humans.
+- 🎵 Built a cool project: **Music Recommendation System** using **Facial Expression Recognition**. Your mood decides your music!
+- 🌐 Also working on designing and developing creative websites.
+- 💡 Always curious, always learning.
+
+---
+
+🛠️ **Technologies & Tools**
+
+- 💻 Languages: `Python`, `C/C++`, `HTML`, `CSS`, `JavaScript`
+- 🧠 AI & CV: `OpenCV`, `TensorFlow`, `Keras`
+- 🛜 IoT: `Arduino`, `Raspberry Pi` (beginner level)
+- 🌐 Web Dev: `Flask`, `Bootstrap`, `Git`
+- 🔧 Tools: `VS Code`, `GitHub`, `Jupyter Notebook`, `Figma`
+
+---
+
+
+📫 **Reach Me At**
+
+- 💌 Email: `bingihansika23@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/yourname]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/hansika-bingi-42615133b/))
+- 💻 Portfolio (soon!): [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+✨ _"Tech is not just a skill — it's an adventure."_  
+Let’s connect, collaborate, and code the future together! 🚀
